@@ -4,8 +4,7 @@
   <remote name="gototem"
                fetch=".." />
 
-  <default revision="master"
-               remote="gototem"
+  <default remote="gototem"
                sync-j="4" />
 
   <project path="kernel" name="gototem/kernel" />
