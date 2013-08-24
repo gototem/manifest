@@ -9,5 +9,6 @@
            sync-j="4" />
 
   <project path="kernel" name="gototem/kernel" />
+  <project path="document" name="gototem/document" />
 
 </manifest>
