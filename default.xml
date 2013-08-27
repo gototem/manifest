@@ -10,5 +10,6 @@
 
   <project path="kernel" name="gototem/kernel" />
   <project path="document" name="gototem/document" />
+  <project path="external/qemu" name="gototem/document" />
 
 </manifest>
